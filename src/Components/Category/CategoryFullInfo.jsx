@@ -1,6 +1,3 @@
-import electronics from "./img/game.jpg"
-import menClothing from "./img/men.jpg"
-import womenClothing from "./img/women.jpg"
 
 
 export const categoryInfo = [
